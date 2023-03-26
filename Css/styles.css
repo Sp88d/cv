@@ -1,0 +1,20 @@
+/*************************************TAGS SELECTORS**************************************/
+h1{
+    color: orangered;
+    font-size: 27ch;  
+}
+p{
+    color: orangered;
+    font-size: 3.5ch;
+}
+/*img{
+    background-color: red;
+}
+*/
+/*************************************CLASSS SELECTORS**************************************/
+.broccoli{
+    background-color: red;
+}
+.cherry{
+    background-color: green;
+}

@@ -1,0 +1,15 @@
+
+
+        hr {
+             background-color: none;
+             color: grey;
+             border-style: dotted none none;
+             border-width: 5px;
+             width: 5%;
+            }
+        h2, h1 {
+             color: rgb(100, 0, 0);
+        }
+       a{
+         color: white;
+}
